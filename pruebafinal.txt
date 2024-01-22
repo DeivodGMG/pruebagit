@@ -1,2 +1,2 @@
-registro 1
-carita feliz
+registro feliz
+carita triste
